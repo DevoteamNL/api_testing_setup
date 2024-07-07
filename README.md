@@ -1,6 +1,6 @@
 # api_testing_setup
 
-This repository is designed to help beginners start learning about API testing using popular tools such as Robot Framework and Selenium. The setup is beginner-friendly and requires only basic IT knowledge. No prior experience in testing is necessary. The ultimate goal is for learners to create their own tests, becoming familiar with the tools and understanding API testing fundamentals.
+This repository is designed to help beginners start learning about API testing using tools such as Robot Framework and Selenium. The setup is beginner-friendly and requires only basic IT knowledge. No prior experience in testing is necessary. The ultimate goal is for learners to create their own tests, becoming familiar with the tools and understanding API testing fundamentals.
 
 ## Environments
 1. **Development environment**: This is provided by a development container (devcontainer) that includes all the necessary Robot Framework and Selenium packages required to execute the tests. This setup ensures a consistent and hassle-free learning experience.
