@@ -1,0 +1,4 @@
+{
+	"image": "docker.io/library/python:3.11-slim",
+	"postCreateCommand": "apt-get update && apt-get install -y curl jq && pip install robotframework==7.0 robotframework-requests==0.9.7 robotframework-robocop==5.0.4"
+}
