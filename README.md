@@ -25,9 +25,13 @@ Follow these steps to get started with the learning environment:
 
 ## Executing Test Cases
 - To execute the Robot Framework test case, run the following command in the VSCode terminal:
-`robot --outputdir robot/logs robot/test_suite.robot`
+    ```bash
+    robot --outputdir robot/logs robot/test_suite.robot
+    ````
+- To view the robot logs, navigate to the `api_testing_setup` folder in your file explorer and open the `log.html` file located in `api_testing_setup/robot/logs/`.
 - To execute the Selenium test case, run the following command in the VSCode terminal:
-`python selenium/sel_test.py`
-
+    ```bash
+    python selenium/sel_test.py
+    ````
 ## Conclusion
 This repository provides a hands-on approach to learning API testing with Robot Framework and Selenium. By following the instructions and exploring the test scenarios, learners will gain practical experience and a deeper understanding of API testing techniques.
